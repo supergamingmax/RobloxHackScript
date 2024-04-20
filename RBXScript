@@ -1,0 +1,12 @@
+local RBX = {
+	["BloxFruit"] = {
+		["ScriptId"] = "https://raw.githubusercontent.com/m1M-Plqer819/any/main/mbmxhub/FF%20.lua";
+		["GameName"] = "Blox Fruit";
+	},
+	["MM2"] = {
+		["ScriptId"] = 0;
+		["GameName"] = "Murder Mystery 2";
+	}
+}
+
+return RBX
